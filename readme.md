@@ -1,3 +1,5 @@
+# Disclamer: This is not my project, the original author MiaoNLI has deleted their github account.
+
 # Blender导入由Minema导出的AE关键帧插件
 
 感觉没啥要说的  
